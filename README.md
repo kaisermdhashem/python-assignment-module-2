@@ -1,4 +1,4 @@
-# Python Programming Assignment
+# Python  Assignment :Module 2
 
 ## Overview
 This repository contains two Python programming assignments completed to practice fundamental Python concepts, including user input, variables, data types, arithmetic operations, conditional statements, and formatted output using f-strings.
