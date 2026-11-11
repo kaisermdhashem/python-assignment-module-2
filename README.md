@@ -12,6 +12,9 @@ python-assignment/
 ├── shopping_cart.py
 └── README.md
 ```
+## Git Diagram
+
+<img width="937" height="841" alt="image" src="https://github.com/user-attachments/assets/f8397916-410a-4815-82a7-736e4d0e7a8a" />
 
 ## Assignment 1: Student Grade Calculator
 
