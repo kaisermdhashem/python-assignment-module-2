@@ -4,13 +4,13 @@
 This repository contains two Python programming assignments completed to practice fundamental Python concepts, including user input, variables, data types, arithmetic operations, conditional statements, and formatted output using f-strings.
 
 ## Repository Structure
-
+ 
 ```text
 python-assignment/
 │
-├── student_grade_calculator.py
+├── README.md
 ├── shopping_cart.py
-└── README.md
+└── student_grade_calculator.py
 ```
 ## Git Diagram
 
