@@ -93,13 +93,13 @@ A Python program that takes a customer's name and the names and prices of three 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/python-assignment.git
+git clone https://github.com/YOUR-USERNAME/python-assignment-module-2.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd python-assignment
+cd python-assignment-module-2
 ```
 
 3. Run the Student Grade Calculator:
@@ -114,7 +114,6 @@ python student_grade_calculator.py
 python shopping_cart.py
 ```
 
-*Note: On some systems, use `python3` instead of `python`.*
 
 ## Learning Objectives
 
